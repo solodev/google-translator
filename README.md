@@ -11,7 +11,7 @@ Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/0stLrpqg/).
 
 ## HTML
 
-The Hero Image Form contains the following HTML markup.
+The translation toolbar is created with the following HTML:
 
 ```
 <div class="ct-topbar">
